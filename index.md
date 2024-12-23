@@ -1,7 +1,3 @@
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-
-I just added a code to understand Markdown code formats
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
