@@ -1,7 +1,7 @@
-# This is a H1 Header
-### This is a H3 Header
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-I just added a image to understand Markdown image links
+I just added a code to understand Markdown code formats
